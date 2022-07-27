@@ -6,7 +6,7 @@ Project made on Node + Typescript classes
 # Globals pre requisites:
 `npm i -g nodemon typescript ts-node `
 
-#intallation 
+# intallation 
 `npm install`
 
 # Run the project 
